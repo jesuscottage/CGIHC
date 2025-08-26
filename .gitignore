@@ -88,7 +88,6 @@ StyleCopReport.xml
 *.idb
 *.iobj
 *.pch
-*.pdb
 *.ipdb
 *.pgc
 *.pgd
